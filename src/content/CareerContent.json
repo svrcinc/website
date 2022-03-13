@@ -1,0 +1,17 @@
+{
+  "title": "Explore Opportunities",
+  "text": "We are not a technology company powered by people, and we are a people company powering technology. Exceptional people like you. People with passion, dreaming of a better following. If you look around, you'll see there's no more significant opportunity than to change the world through technology. And who better to do it than you?",
+  "section": [
+    {
+      "title": "Experienced Professionals",
+      "content": "Significant disruptions need the best navigators. You are one of them.",
+      "icon": "experienced_professionals.png"
+    },
+    {
+      "title": "Graduates",
+      "content": "You have the passion. Now find the purpose.",
+      "icon": "graduates.png",
+      "smallIcon": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Collaborative Spirit",
+  "text": "SVR Consultancy Inc believes in developing true partnerships. We foster a collegial environment where individual perspectives are respected, and honest dialogue is expected.",
+  "text1": "",
+  "text2": "",
+  "section": [
+    {
+      "title": "Expert Thinking",
+      "content": "SVR Consultancy Inc brings solid skills and forward-looking perspectives to solve customer challenges. We use proven knowledge to make recommendations and provide expert guidance to our customers.",
+      "icon": "expert_thinking.png"
+    },
+    {
+      "title": "Unrelenting Dedication",
+      "content": "SVR Consultancy Inc is driven to meet client needs with determination and grit. We embrace tough challenges and do not rest until the problem is solved the right way.",
+      "icon": "dedication.png"
+    }
+  ]
+}
+
